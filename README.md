@@ -1,11 +1,14 @@
-Text Conversion To Sound!
+![](https://badgen.net/badge/Editor.js/v2.0/blue)
 
-Project implementation steps:
 
-1: Go to the project path in the terminal
+# The Text-Conversion-To-Sound app created with Python3.
 
-2: Write the following commands:
 
-    pip install -r requirements.txt
+### To run the app, you need run the following commands:
 
-    python app.py
+```shell
+pip install -r requirements.txt
+
+python app.py
+
+```
