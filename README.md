@@ -1,7 +1,4 @@
-![](https://badgen.net/badge/Editor.js/v2.0/blue)
-
-
-# The Text-Conversion-To-Sound app created with Python3.
+## Text To Sound application made with Python
 
 
 ### To run the app, you need run the following commands:

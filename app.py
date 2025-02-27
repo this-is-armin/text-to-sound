@@ -7,18 +7,18 @@ font_2 = ('Boulder', 15, 'bold')
 
 # Initializing the pyttsx3 and create a object
 sound = pyttsx3.init()
-sound.setProperty('rate', 110)
+sound.setProperty('rate', 150)
 
 class App(Tk):
     def __init__(self):
         super().__init__()
 
         # Window properties
-        self.title('Text Conversion To Sound')
+        self.title('Text To Sound')
         self.config(bg='lightgreen')
         self.geometry('600x550')
 
-        header = Label(self, text='Welcome to the text-conversion-to-sound app', fg='lime', bg='darkblue', font=font_1, width=100, borderwidth=12)
+        header = Label(self, text='Text To Sound', fg='lime', bg='darkblue', font=font_1, width=100, borderwidth=12)
         header.pack(side='top', fill='x')
 
         # Frame of button and text-box
