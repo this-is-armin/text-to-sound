@@ -1,10 +1,9 @@
-## Text To Sound application made with Python
+## Text To Sound app with Python
 
-### To run the app, you need run the following commands:
+### Run the following command:
 
 ```shell
 pip install -r requirements.txt
 
 python app.py
-
 ```
